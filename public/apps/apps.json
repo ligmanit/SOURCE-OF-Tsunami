@@ -5,24 +5,24 @@
     "location": "/apps/apps.html#aHR0cHM6Ly93d3cueW91dHViZS5jb20="
     },
     {
-        "title": "Spotify",
+        "title": "Crazy-Games",
         "image": "/apps/images/spot.png",
-        "location": "/apps/apps.html#aHR0cHM6Ly9vcGVuLnNwb3RpZnkuY29t"
+        "location": "/uv.html?url=https://crazygames.com"
     },
     {
-        "title": "Twitter",
+        "title": "UBG100",
         "image": "/apps/images/twt.png",
-        "location": "/apps/apps.html#aHR0cHM6Ly90d2l0dGVyLmNvbS9leHBsb3Jl"
+        "location": "/uv.html?url=https://ubg100.github.io"
     },
     {
-        "title": "Reddit",
+        "title": "Movies",
         "image": "/apps/images/rt.png",
-        "location": "/apps/apps.html#aHR0cHM6Ly9yZWRkaXQuY29t"
+        "location": "/uv.html?url=https://arc018.com"
     },
     {
-        "title": "Twitch",
+        "title": "Heros",
         "image": "/apps/images/tich.jpg",
-        "location": "/apps/apps.html#aHR0cHM6Ly90d2l0Y2gudHY="
+        "location": "/uv.html?url=https://www.bing.com/search?q=%s&PC=U316&FORM=CHROMN"
     },
     {
         "title": "Discord",
@@ -35,9 +35,14 @@
         "location": "/apps/apps.html#aHR0cHM6Ly93d3cuY29vbG1hdGhnYW1lcy5jb20="
     },
     {
-        "title": "Geforce Now",
+        "title": "Giggl.app",
         "image": "/apps/images/gfnow.png",
-        "location": "/apps/apps.html#aHR0cHM6Ly9wbGF5LmdlZm9yY2Vub3cuY29t"
+        "location": "/uv.html?url=https://giggl.app"
+    },
+    {
+        "title": "Hero",
+        "image": "/apps/images/gfnow.png",
+        "location": "/uv.html?url=https://hero-wars.com"
     },
     {
             "title": "Y8",
