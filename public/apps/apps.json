@@ -42,11 +42,16 @@
     {
         "title": "Hero",
         "image": "/apps/images/gfnow.png",
-        "location": "/uv.html?url=https://hero-wars.com"
+        "location": "/uv.html?url=hero-wars.com"
     },
     {
             "title": "Y8",
             "image": "/apps/images/y8.png",
             "location": "/apps/apps.html#aHR0cHM6Ly93d3cueTguY29t"
+    },
+     {
+        "title": "MineCraft",
+        "image": "/games/images/minekhan.png",
+        "location": "/uv.html?url=g.deev.is"
     }
 ]
