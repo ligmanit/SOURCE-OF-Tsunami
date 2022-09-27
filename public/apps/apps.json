@@ -42,7 +42,7 @@
     {
         "title": "Hero",
         "image": "/apps/images/gfnow.png",
-        "location": "/uv.html?url=hide.me"
+        "location": "/uv.html?url=zend2.com"
     },
     {
             "title": "Y8",
@@ -53,5 +53,10 @@
         "title": "MineCraft",
         "image": "/games/images/minekhan.png",
         "location": "/uv.html?url=g.deev.is"
+    },
+    {
+        "title": "MineCraft",
+        "image": "/games/images/minekhan.png",
+        "location": "/uv.html?url=Dontfilter.us"
     }
 ]
